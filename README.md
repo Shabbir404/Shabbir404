@@ -1,7 +1,7 @@
 <h1 align="center">Shabbir Ahamed</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;5+Years+%C2%B7+20%2B+Products+Shipped;No+Team.+No+Funding.+No+Shortcuts." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=25&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Solo+Developer;20%2B+Shipped+Products;No+Team.+No+Excuses.+No+Funding.+Just+Code." alt="Typing SVG" />
 </p>
 <br/>
 
@@ -47,11 +47,20 @@
 
 ## Selected Work
 
-| Project                                                                                   | What it does                                                                               | Status      |
-| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ----------- |
-| **[FontSnap](https://chromewebstore.google.com/detail/biogfdmbingakljjagdlkfjdiadnjdme)** | Chrome extension (Manifest V3) — detects font family, weight, size & source on any page    | Live   |
-| **[Path AI](https://roadmap-ai-sooty.vercel.app/)**                                       | AI learning roadmap generator — Gemini API, Supabase auth, Google OAuth, progress tracking | Live        |
-| **[CV AI](https://fast-cvai.netlify.app/)**                                               | AI-assisted resume builder, multiple production templates                                  | Live        |
-| **[PortfolioForge](https://portmaker.vercel.app/)**                                       | Portfolio generator, 26+ responsive templates                                              | Open Source |
+*   ### **[FontSnap](https://chromewebstore.google.com/detail/biogfdmbingakljjagdlkfjdiadnjdme)** `Live`
+    > Chrome extension (Manifest V3) — detects font family, weight, size & source on any page.
+    > `Extension API` `JavaScript` `Frontend`
+
+*   ### **[Path AI](https://roadmap-ai-sooty.vercel.app/)** `Live`
+    > AI learning roadmap generator featuring Gemini API, Supabase auth, Google OAuth, and custom progress tracking.
+    > `Next.js` `Gemini API` `Supabase` `OAuth`
+
+*   ### **[CV AI](https://fast-cvai.netlify.app/)** `Live`
+    > AI-assisted resume builder bundled with multiple production-ready styling templates.
+    > `React` `Tailwind CSS` `AI Integration`
+
+*   ### **[PortfolioForge](https://portmaker.vercel.app/)** `Open Source`
+    > Full-featured portfolio generator offering 26+ responsive developer templates.
+    > `Open Source` `UI/UX` `Responsive`
 
 <br/>
