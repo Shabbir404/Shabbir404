@@ -55,6 +55,10 @@
     > AI learning roadmap generator featuring Gemini API, Supabase auth, Google OAuth, and custom progress tracking.
     > `Next.js` `Gemini API` `Supabase` `OAuth`
 
+*   ### **[MetagGen](https://euphonious-cucurucho-c99708.netlify.app/)** `Live`
+    > Ai images, pdf's, eps, ai etc. formats meta-data generator. Its generate platforms based SEO friendly keywords, tittle, description and many more meta-data's. 
+    > `React` `Gemini, OpenAI, Open-router, Claude API` `JS`
+
 *   ### **[CV AI](https://fast-cvai.netlify.app/)** `Live`
     > AI-assisted resume builder bundled with multiple production-ready styling templates.
     > `React` `Tailwind CSS` `AI Integration`
